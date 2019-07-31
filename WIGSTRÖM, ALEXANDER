@@ -1,0 +1,13 @@
+Scenario: The user is block to PGS.
+
+User story: As an EON user, I´m able to access my SAP-PGS, so I can perform my job
+
+Description:
+The user got a password but the password does´t work
+
+Title: Reset password SAP-PGs
+
+Basic flow:
+	1. The user called in request a new password to SAP-PGS
+	2. I told the user that I have to send to PGS team so they can reset the password.
+	
